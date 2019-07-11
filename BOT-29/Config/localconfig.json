@@ -1,0 +1,11 @@
+{
+    "region":["us-east-1","us-east-2","eu-central-1","ap-south-1"],
+	"profilenames": [{"profilename": "default", "account": "harman non prod"}],
+	"toaddress":["narayana.kshatri@everestdx.com"],
+	"subject": "HARMAN IT - EBS_Volumes_Statistics",
+		 "Message":"EBS_Volumes_Statistics",
+		 "summarytitle" : "EBS_Volumes_Statistics : ",
+	
+	"debug":0,
+    	"reportheader":"EBS Volumes Statistics"
+}
