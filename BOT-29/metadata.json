@@ -1,0 +1,7 @@
+{
+    "name" : "EBS_Volumes_Statistics_ps1",
+    "description" : "This bot will report all EBS volumes",
+    "executablePath" : "C:\Users\magarwal\Documents\BOT\Bots_Letest_Standard\BOT-29",
+    "executableName" : "EBS_Volumes_Statistics"
+}
+
