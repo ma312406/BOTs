@@ -1,0 +1,25 @@
+{
+
+	"defaultFrom":"AlwaysOnBots@harman.com",
+	"allregions":["us-east-1","us-east-2","ap-south-1","eu-central-1"],
+	"profilenames": [      
+	{"profilename": "default", "account": "harman international"}
+      ],
+
+	"smtp": {
+
+		"server":"10.10.24.20",
+
+		"port":"25",
+
+		"userid":"",
+
+		"secret":""
+
+	},
+	
+	"maintitle":"Harman-AlwaysOnBOTs",
+
+	"EmailTag":"Email_Notify"
+
+}
